@@ -1,0 +1,4 @@
+nglint
+======
+
+Angular.js linter
